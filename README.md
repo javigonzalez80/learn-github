@@ -1,2 +1,2 @@
 # learn-github
-Learning Github with Git.
+Learning and testing Github with Git. 
