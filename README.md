@@ -84,12 +84,14 @@ $ git log
 
 **Change directory:**
 ```
-$ cd /path/folder/ *Example: cd /c/Github/*
+$ cd /path/folder/ 
+Example: $ cd /c/Github/
 ```
 
 **Change directory if empty or ():**
 ```
-$ cd "Folder ()" *Example: cd "Program Files (x86)"*
+$ cd "Directory ()"
+Example: $ cd "Program Files (x86)" 
 ```
 
 **See content of a directory:**
