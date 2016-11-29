@@ -14,7 +14,7 @@ https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 ## Basic steps
 
-### Cloning Repository
+### Cloning repository
 ```
 Change the current working directory to the location where you want the cloned directory to be made.
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
@@ -22,7 +22,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 ### Adding Repository
 ```
-Creating a empty Repository in Github
+Creating a empty repository in Github
 $ git init
 $ git add .
 $ git commit -m "Message"
@@ -30,7 +30,7 @@ $ git remote add origin remote repository URL
 $ git push origin master
 ```
 
-### Changing a file in the Repository
+### Changing a file in the repository
 ```
 $ git add filename
 $ git commit -m "Message"
