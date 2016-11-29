@@ -20,7 +20,7 @@ Change the current working directory to the location where you want the cloned d
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
 
-### Adding Repository
+### Adding repository
 ```
 Creating a empty repository in Github
 $ git init
