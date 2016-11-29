@@ -30,6 +30,13 @@ $ git remote add origin remote repository URL
 $ git push origin master
 ```
 
+### Changing a file in the Repository
+```
+$ git add filename
+$ git commit -m "Message"
+$ git push
+```
+
 ## Git Bash
 
 **Setting user name:**
