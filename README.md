@@ -15,20 +15,20 @@ https://help.github.com/articles/basic-writing-and-formatting-syntax/
 ## Basic steps
 
 ```
-Cloning Repository
+### Cloning Repository
 Change the current working directory to the location where you want the cloned directory to be made.
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
 
 ```
-Adding Repository
+### Adding Repository
 Creating a empty Repository in Github
 $ git init
 $ git add .
 $ git commit -m "Message"
 $ git remote add origin remote repository URL
 $ git push origin master
-
+```
 
 ## Git Bash
 
